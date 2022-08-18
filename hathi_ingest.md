@@ -68,6 +68,8 @@ Copy and paste the code (with path names added) into the terminal. Hit “Enter�
 * Checksum file listing every file in package and its corresponding md5 hash value
 
 ### Troubleshooting
+Check which version of Tesseract is installed on your machine before running OCR using the command `tesseract --version`. The most recent version is 5.2.0. It can be installed using the command ` brew install tesseract`. 
+
 The following errors may occur when running the script above; if so, type the corresponding commands into the terminal to install needed packages: 
 
 * No module named yaml → `pip3 install pyyaml` 
