@@ -30,7 +30,7 @@ exiftool_bin = "/usr/local/bin/exiftool"
 top_level_dirs = ["/Volumes/Novel Database/Sci Fi Round 1", "/Volumes/Novel Database/Sci-Fi Round 2"]
 subdir_1 = "/Batch *"
 subdir_2 = "/SSF*"
-tif_dirs = ["/TIFFs to OCR/*.tif", "/Cover TIFFs/*.tif"]
+tif_dirs = ["/TIFFs to OCR/*.tif"]
 # 
 # DIRECTORY FOR GENERATED ARTIFACTS
 #
